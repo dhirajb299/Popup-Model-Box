@@ -1,0 +1,12 @@
+ #box1{
+    height: 50px;
+    width: 100px;
+    background-color: aqua;
+    font: size 20px; ;
+ }
+ #box2{
+    height: 25px;
+    width: 50px;
+    font-size: 1rem;
+    
+ }
